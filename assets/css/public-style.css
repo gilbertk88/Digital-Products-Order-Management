@@ -1,0 +1,12 @@
+.ginput_container > input{
+    border-radius: 35px;
+    background: #fff !important;
+    border: #cccccc42 solid 1px !important;
+    padding: 5px 15px !important;
+}
+.gfield_label{
+    padding-left: 10px !important;
+}
+.gform_button{
+    border-radius: 10px !important;
+}

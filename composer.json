@@ -1,0 +1,24 @@
+{
+  "name": "Digital Services / Products Order Managment",
+  "description": "A Digital Services / Products Order Managment -  Wordpress Plugin",
+  "keywords": ["agency", "order"],
+  "authors": [
+    {
+      "name": "Exclusive Web Marketing",
+      "email": "support@exclusivewebmarketing.com",
+      "homepage": "http://www.exclusivewebmarketing.com"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "repositories":[
+    {
+      "type":"composer",
+      "url":"https://wpackagist.org"
+    }
+  ],
+  "require": {
+    "php": ">=7.1",
+    "composer/installers" : "~1.2",
+    "themosis/framework": "2.1.0"
+  }
+}
